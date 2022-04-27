@@ -12,12 +12,6 @@ const thai = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Styled-Components, Jest],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
