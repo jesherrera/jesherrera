@@ -11,10 +11,12 @@
 
 <br><br>
 
-- 💻: Soy desarrollador web `Junior` frontend haciendo todo lo creativo para hacer de la web un lugar más único e increíble.
-- 😎: El café, la fotografía, la música y el arte son mis pasatiempos favoritos
-- 📚: Disfruto dando vida a un diseño o idea estáticos y aprendiendo nuevas tecnologías.
-- :co: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- 🎉: Soy desarrollador Fornt End `Junior`.
+- 💻: Disfruto dando vida a un diseño y aprendiendo nuevas tecnologías.
+- 📚: Actualmente me encuentro estudiondo Java con spring Boot.
+- 😎: Mis pasatiempos favoritos son la música, la fotografía y el café. 
+
+<!-- - :co: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
