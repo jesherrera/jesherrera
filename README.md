@@ -13,7 +13,7 @@
 
 - 🎉: Soy desarrollador Fornt End `Junior`.
 - 💻: Disfruto dando vida a un diseño y aprendiendo nuevas tecnologías.
-- 📚: Actualmente me encuentro estudiondo Java con spring Boot.
+  <!-- - 📚: Actualmente me encuentro estudiondo Java con spring Boot. -->
 - 😎: Mis pasatiempos favoritos son la música, la fotografía y el café. 
 
 <!-- - :co: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
